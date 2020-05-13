@@ -22,7 +22,7 @@ else
   git config --global user.email "1902996802@qq.com"
 fi
 git init
-git add -A
+git add .
 git commit -m "${msg}"
 git push -f $githubUrl master:gh-pages # 推送到github
 
