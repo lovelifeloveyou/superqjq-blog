@@ -20,7 +20,7 @@ features: # 可选的
 ---
 
 
-## 关于
+<!-- ## 关于
 
 ### 📚Blog
 这是一个兼具博客文章、知识管理、文档查找的个人网站，主要内容是Web前端技术。如果你喜欢这个博客&主题欢迎到[GitHub](https://github.com/xugaoyi/vuepress-theme-vdoing)点个Star、获取源码，或者交换[友链](/friends/) ( •̀ ω •́ )✧
@@ -66,7 +66,7 @@ features: # 可选的
 :::
 
 
-</br>
+</br> -->
 
 <!-- 
 ## 文章推荐
@@ -134,10 +134,10 @@ features: # 可选的
   * [友情链接](/pages/844eea1b2387fb96/)
   * [更多... 👈](/pages/2e9ba3fa6e1ed0e9/) -->
 
-## :email: 联系
+<!-- ## :email: 联系
 
 - **WeChat or QQ**: <a href="tencent://message/?uin=894072666&Site=&Menu=yesUrl" class='qq'>894072666</a>
 - **Email**: <a href="mailto:894072666@qq.com">894072666@qq.com</a>
-- **GitHub**: <https://github.com/xugaoyi>
+- **GitHub**: <https://github.com/xugaoyi> -->
 
 <img src="/img/panda-waving.png" class="panda" style="width: 250px;height: 223px;opacity: 0.85;margin-bottom: -4px;">
