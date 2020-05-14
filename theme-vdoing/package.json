@@ -1,10 +1,10 @@
 {
-  "name": "vuepress-theme-vdoing",
+  "name": "superqjq-blog",
   "author": {
-    "name": "Evan Xu"
+    "name": "Superqjq"
   },
   "bugs": {
-    "url": "https://github.com/xugaoyi/vuepress-theme-vdoing/issues"
+    "url": "https://github.com/lovelifeloveyou/superqjq-blog/issues"
   },
   "dependencies": {
     "@vuepress/plugin-active-header-links": "^1.2.0",
@@ -17,8 +17,8 @@
     "vuepress-plugin-container": "^2.0.2",
     "vuepress-plugin-smooth-scroll": "^0.0.3"
   },
-  "description": "Vdoing theme for VuePress",
-  "homepage": "https://github.com/xugaoyi/vuepress-theme-vdoing#readme",
+  "description": "VuePress blog",
+  "homepage": "https://github.com/lovelifeloveyou/superqjq-blog#readme",
   "keywords": [
     "documentation",
     "vue",
@@ -31,8 +31,8 @@
   "main": "index.js",
   "maintainers": [
     {
-      "name": "Evan xu",
-      "email": "894072666@qq.com"
+      "name": "superqjq",
+      "email": "lovelifeloveyou7@gmail.com"
     }
   ],
   "publishConfig": {
@@ -40,7 +40,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xugaoyi/vuepress-theme-vdoing.git"
+    "url": "git+https://github.com/lovelifeloveyou/superqjq-blog.git"
   },
   "version": "1.0.0"
 }
