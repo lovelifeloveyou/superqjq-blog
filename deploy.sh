@@ -11,7 +11,7 @@ cd docs/.vuepress/dist
 
 # deploy to github
 # echo 'b.xugaoyi.com' > CNAME
-git push -f git@github.com:lovelifeloveyou/superqjq-blog.git master:gh-pages
+# git push -f git@github.com:lovelifeloveyou/superqjq-blog.git master:gh-pages
 if [ -z "$GITHUB_TOKEN" ]; then
   msg='deploy'
   githubUrl=git@github.com:lovelifeloveyou/superqjq-blog.git
