@@ -81,7 +81,7 @@ module.exports = {
     footer:{ // 页脚信息
       createYear: 2019, // 博客创建年份
       copyrightInfo: 'superqjq', // 博客版权信息，支持a标签
-      footerBgImg: '/img/footer.png' // 可选的，页脚背景图，只在首页显示
+      footerBgImg: 'https://cdn.jsdelivr.net/gh/lovelifeloveyou/somePic/blog/footer.png' // 可选的，页脚背景图，只在首页显示
     }
   },
   plugins: [ // 插件

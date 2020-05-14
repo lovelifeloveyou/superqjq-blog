@@ -2,7 +2,7 @@
 home: true
 heroText: Superqjq's blog
 tagline: Web前端技术博客，积跬步以至千里，致敬每个爱学习的你。
-# bgImg: /img/bg.jpeg # 可选的，如未配置则显示网格纹背景
+bgImg: /img/bg.jpeg # 可选的，如未配置则显示网格纹背景
 
 features: # 可选的
   - title: 前端
@@ -140,4 +140,4 @@ features: # 可选的
 - **Email**: <a href="mailto:894072666@qq.com">894072666@qq.com</a>
 - **GitHub**: <https://github.com/xugaoyi> -->
 
-<img src="/img/panda-waving.png" class="panda" style="width: 250px;height: 223px;opacity: 0.85;margin-bottom: -4px;">
+<img src="https://cdn.jsdelivr.net/gh/lovelifeloveyou/somePic/blog/panda-waving.png" class="panda" style="width: 250px;height: 223px;opacity: 0.85;margin-bottom: -4px;">
