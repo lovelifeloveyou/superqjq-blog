@@ -91,7 +91,7 @@ export default {
       if (repo) {
         return /^https?:/.test(repo)
           ? repo
-          : `https://github.com/${repo}`
+          : `https://lovelifeloveyou.github.io/${repo}`
       }
       return null
     },
